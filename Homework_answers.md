@@ -29,3 +29,7 @@ http://localhost:3000/api/games/
 What are we using the MongoDB Driver for?
 
 To connect the db to the server
+
+Why do we need to use ObjectId from the MongoDB driver?
+
+Because its the only thing that is unique in each db record
